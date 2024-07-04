@@ -1,6 +1,6 @@
 in the project directory, run:
 
-npm i
+npm i \
 npm run start
 
 runs the app in the development mode.\
